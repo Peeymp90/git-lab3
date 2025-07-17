@@ -4,5 +4,5 @@
 
     echo "hahafffff";
     echo "555555";
-    
+    echo "kfc";
 ?>
