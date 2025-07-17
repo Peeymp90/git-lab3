@@ -2,6 +2,7 @@
     echo "Home";
     echo "Product";
 
-    echo "EIEI";
-    echo "dgsg";
+    echo "EEI";
+    echo "EEI878585552";
+
 ?>
